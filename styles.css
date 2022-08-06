@@ -1,0 +1,29 @@
+* {
+    background-color: darkgray;
+    text-align: center;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+h3 {
+    text-align: left;
+}
+
+li {
+    text-align: left;
+    font-size: 18px;
+}
+
+button {
+    font-size: 22px;
+    color: darkgreen;
+    background-color:lightblue;
+    cursor: pointer;
+    margin: 4px 2px;
+    display: inline-block;
+    padding: 12px 26px;
+
+}
